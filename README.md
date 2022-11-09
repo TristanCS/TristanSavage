@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TristanSavage.
 - 👀 I’m interested in all things coding!
-- 🌱 I’m currently learning JS.
-- 💞️ I’m looking to collaborate on anything involving frontend development
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on anything involving Development!
 - 📫 How to reach me savage.tristan@gmail.com
 
 <!---
