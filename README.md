@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TristanSavage.
 - 👀 I’m interested in all things coding!
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on anything involving Development!
-- 📫 How to reach me savage.tristan@gmail.com
+- 🌱 I’m currently learning JavaScript/TypeScript.
+- 💞️ I’m looking to collaborate on anything involving Web Development!
+- 📫 How to reach me: savage.tristan@gmail.com
 
 <!---
 TristanSavage/TristanSavage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
